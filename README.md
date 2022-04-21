@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KAUSHIK_DAA
+- 👋 Hi, I’m @KAUSHIK_DAS
 - 👀 I’m interested in Web & App Development as well as UI design.
 - 🌱 I’m currently learning Python,Django,MongoDB
 - 💞️ I’m looking to collaborate on ...
